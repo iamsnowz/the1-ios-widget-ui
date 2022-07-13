@@ -1,0 +1,16 @@
+PODS:
+  - SkeletonUI (1.0.8)
+
+DEPENDENCIES:
+  - SkeletonUI
+
+SPEC REPOS:
+  trunk:
+    - SkeletonUI
+
+SPEC CHECKSUMS:
+  SkeletonUI: 04bd73f70c0488eceed13eb13c731138c5636db8
+
+PODFILE CHECKSUM: 79b9d776c33eb2e959c6728bcde4ba6df8412365
+
+COCOAPODS: 1.11.3
